@@ -1,0 +1,11 @@
+F:\汽车维修档案对接\qichedangan\qichedangan\build\Debug\Quartz.Server\quartz_jobs.xml
+F:\汽车维修档案对接\qichedangan\qichedangan\build\Debug\Quartz.Server\App.config
+F:\汽车维修档案对接\qichedangan\qichedangan\build\Debug\Quartz.Server\quartz.config
+F:\汽车维修档案对接\qichedangan\qichedangan\build\Debug\Quartz.Server\qichedangan.exe.config
+F:\汽车维修档案对接\qichedangan\qichedangan\build\Debug\Quartz.Server\Quartz.Server.XML
+F:\汽车维修档案对接\qichedangan\qichedangan\build\Debug\Quartz.Server\qichedangan.exe
+F:\汽车维修档案对接\qichedangan\qichedangan\build\Debug\Quartz.Server\qichedangan.pdb
+F:\汽车维修档案对接\qichedangan\qichedangan\ETL.Server\obj\Debug\qichedangan.csprojResolveAssemblyReference.cache
+F:\汽车维修档案对接\qichedangan\qichedangan\ETL.Server\obj\Debug\qichedangan.csproj.CoreCompileInputs.cache
+F:\汽车维修档案对接\qichedangan\qichedangan\ETL.Server\obj\Debug\qichedangan.exe
+F:\汽车维修档案对接\qichedangan\qichedangan\ETL.Server\obj\Debug\qichedangan.pdb

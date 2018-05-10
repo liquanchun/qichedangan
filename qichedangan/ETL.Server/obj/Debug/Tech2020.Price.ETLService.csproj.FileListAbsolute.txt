@@ -1,0 +1,12 @@
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\quartz_jobs.xml
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\App.config
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\quartz.config
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\Quartz.Server.XML
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\ETL.Server\obj\Debug\Tech2020.Price.ETLService.csproj.CoreCompileInputs.cache
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\hashcode.txt
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\Tech2020.Price.ETLService.exe.config
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\Tech2020.Price.ETLService.exe
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\build\Debug\Quartz.Server\Tech2020.Price.ETLService.pdb
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\ETL.Server\obj\Debug\Tech2020.Price.ETLService.exe
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\ETL.Server\obj\Debug\Tech2020.Price.ETLService.pdb
+E:\Jomoo\src\backend\trunk\Tech2020.Insight.Price\Tech2020.Price.ETLService\ETL.Server\obj\Debug\Tech2020.Price.ETLService.csprojResolveAssemblyReference.cache
